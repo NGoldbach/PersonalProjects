@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.*;
 
-public class scrabbleCalculator {
+public class    scrabbleCalculator {
     public static ArrayList<String> scrabbleWordList = new ArrayList();
     public static int[] scrabbleLetterPoints = {1, 3, 3, 2, 1, 4, 2, 4, 1, 8, 5, 1, 3, 1, 1, 3, 10, 1, 1, 1, 1, 4, 4, 8, 4, 10};
     public static ArrayList<String> existingStrings = new ArrayList();
